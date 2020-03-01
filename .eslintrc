@@ -22,8 +22,7 @@
   "parser": "babel-eslint",
   "plugins": [
     "react",
-    "jsx-a11y",
-    "import"
+    "jsx-a11y"
   ],
   "rules": {
     "react/jsx-filename-extension": 0,
@@ -288,6 +287,7 @@
     "react/sort-comp": 0,
     "react/jsx-wrap-multilines": 2,
     "semi-spacing": 0,
+    "semi":"off",
     "sort-vars": 0,
     "space-before-blocks": [
       2,
